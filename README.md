@@ -6,3 +6,10 @@
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/34775595/134459686-c463a031-facf-4dcf-95fc-47278a71d776.png" alt="How to download Mendeley Desktop" width="50%" height="50%"></p>
+
+---
+
+## GES journal
+<img align="right" width="100" height="100" src="https://ges.rgo.ru/public/journals/1/homeHeaderTitleImage_en_US.jpg">
+
+Стиль цитирования для журнала **Geography, Environment, Sustainability**
