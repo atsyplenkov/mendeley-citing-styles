@@ -5,7 +5,7 @@
 ❗ Представленные здесь стили пока (сентябрь 2021 г.) не работают с новой версией Mendeley, т.н. [Mendeley Reference Manager](https://www.mendeley.com/reference-management/reference-manager). Поэтому, если вы только начинаете работать с этой программой и хотите использовать сторонние стили, то убедитесь, что вы скачиваете именно **Mendeley Desktop**:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/34775595/134459686-c463a031-facf-4dcf-95fc-47278a71d776.png" alt="How to download Mendeley Desktop" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/34775595/134459686-c463a031-facf-4dcf-95fc-47278a71d776.png" alt="How to download Mendeley Desktop" width="40%" height="40%">
 </p>
 
 ---
@@ -14,9 +14,7 @@
 
 Чтобы у иностранных статей писалось `et al.`, а у русских `и др.`, нужно прописать всем англоязычным статьям в теге Language «en-us» (без кавычек). Для этого его нужно сначала активировать в настройках менделеея `Tools` → `Options` для всех типов документов. А далее — можно отсортировать всех публикации по алфавиту, выделить все иностранные и прописать тег `en-us` всем сразу.
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/34775595/134461105-9b965519-446d-40ec-bd44-e166290ef1b1.png" alt="How to add Language tag" width="30%" height="30%">
-</p>
+<img align="right" src="https://user-images.githubusercontent.com/34775595/134461105-9b965519-446d-40ec-bd44-e166290ef1b1.png" alt="How to add Language tag" width="30%" height="30%">
 
 ---
 
