@@ -12,5 +12,5 @@
 ## GES journal
 <img align="right" height="70" src="https://ges.rgo.ru/public/journals/1/homeHeaderTitleImage_en_US.jpg">
 
-Стиль цитирования для журнала **Geography, Environment, Sustainability**
+Стиль цитирования для журнала **Geography, Environment, Sustainability** <br>
 https://ges.rgo.ru/jour
