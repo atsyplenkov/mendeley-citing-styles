@@ -4,4 +4,5 @@
 
 ❗ Представленные здесь стили пока (сентябрь 2021 г.) не работают с новой версией Mendeley, т.н. [Mendeley Reference Manager](https://www.mendeley.com/reference-management/reference-manager). Поэтому, если вы только начинаете работать с этой программой и хотите использовать сторонние стили, то убедитесь, что вы скачиваете именно **Mendeley Desktop**:
 
-<center><img src="https://user-images.githubusercontent.com/34775595/134459686-c463a031-facf-4dcf-95fc-47278a71d776.png" alt="How to download Mendeley Desktop" width="50%" height="50%"></center>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/34775595/134459686-c463a031-facf-4dcf-95fc-47278a71d776.png" alt="How to download Mendeley Desktop" width="50%" height="50%"></p>
