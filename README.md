@@ -30,5 +30,7 @@
 
 Стиль цитирования для журнала **Geography, Environment, Sustainability** <br>
 https://ges.rgo.ru/jour <br>
-`https://raw.githubusercontent.com/atsyplenkov/mendeley-citing-styles/main/GES/ges-rgo-2.csl`
+```
+https://raw.githubusercontent.com/atsyplenkov/mendeley-citing-styles/main/GES/ges-rgo-2.csl
+```
 
