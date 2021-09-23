@@ -24,7 +24,7 @@
 
 ## Cтили цитирования
 
-<img align="right" height="70" src="https://ges.rgo.ru/public/journals/1/homeHeaderTitleImage_en_US.jpg">
+<img align="right" height="100" src="https://ges.rgo.ru/public/journals/1/homeHeaderTitleImage_en_US.jpg">
 
 ### GES
 
