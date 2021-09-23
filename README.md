@@ -12,7 +12,7 @@
 
 ## Установка
 
-<img align="right" src="https://user-images.githubusercontent.com/34775595/134461105-9b965519-446d-40ec-bd44-e166290ef1b1.png" alt="How to add Language tag" width="30%" height="30%">
+<img align="right" src="https://user-images.githubusercontent.com/34775595/134461105-9b965519-446d-40ec-bd44-e166290ef1b1.png" alt="How to add Language tag" height="200">
 
 Чтобы у иностранных статей писалось `et al.`, а у русских `и др.`, нужно прописать всем англоязычным статьям в теге Language «en-us» (без кавычек). Для этого его нужно сначала активировать в настройках менделеея `Tools` → `Options` для всех типов документов. А далее — можно отсортировать всех публикации по алфавиту, выделить все иностранные и прописать тег `en-us` всем сразу.
 
