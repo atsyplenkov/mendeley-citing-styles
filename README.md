@@ -26,7 +26,7 @@
 
 <img align="right" height="100" src="https://ges.rgo.ru/public/journals/1/homeHeaderTitleImage_en_US.jpg">
 
-### GES
+### [GES](https://github.com/atsyplenkov/mendeley-citing-styles/blob/main/GES/README.md)
 
 Стиль цитирования для журнала **Geography, Environment, Sustainability** <br>
 https://ges.rgo.ru/jour <br>
@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/atsyplenkov/mendeley-citing-styles/main/GES/ge
 
 <img align="right" height="100" src="https://sciencejournals.ru/journals/pochved/cover.png">
 
-### Почвоведение
+### [Почвоведение](https://github.com/atsyplenkov/mendeley-citing-styles/blob/main/Eurasian%20Soil%20Science/README.md)
 
 Стиль цитирования для журнала **Почвоведение (Eurasian Soil Science)** <br>
 http://eurasian-soil-science.info/index.php/ru/ <br>
