@@ -12,6 +12,23 @@
 
 ## Установка
 
+В приложении **Mendeley Desktop** переходим во вкладку *View*→*Citation Style*→*More styles…*:
+<p align="center">
+<img align="center" src="https://user-images.githubusercontent.com/34775595/134867112-9c615e28-fcf8-4023-957c-1f87cfc5d0a3.png" height="200">
+</p>
+  
+В появившемся окне переходим во вкладку *Get More Styles* и в строку *Download Style* вставляем ссылку на `.csl` файл. Ссылки можно скопировать ниже на этой странице.
+<p align="center">
+<img align="center" src="https://user-images.githubusercontent.com/34775595/134867362-ed0d6111-492b-4426-ad18-6a809106dabd.png" height="200">
+</p>
+  
+Стиль загрузится и сразу выберется. Открытые документы Word лучше закрыть и открыть заново, а приложение Mendeley Desktop перезапустить.
+<p align="center">
+<img align="center" src="https://user-images.githubusercontent.com/34775595/134867872-0f94c01c-0fcc-4959-bd09-4eea5dfe0def.png" height="200">
+</p>
+  
+---
+
 <img align="right" src="https://user-images.githubusercontent.com/34775595/134461105-9b965519-446d-40ec-bd44-e166290ef1b1.png" alt="How to add Language tag" height="200">
 
 <br>
