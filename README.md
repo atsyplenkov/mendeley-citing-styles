@@ -34,3 +34,12 @@ https://ges.rgo.ru/jour <br>
 https://raw.githubusercontent.com/atsyplenkov/mendeley-citing-styles/main/GES/ges-rgo-2.csl
 ```
 
+<img align="right" height="100" src="https://sciencejournals.ru/journals/pochved/cover.png">
+
+### Почвоведение
+
+Стиль цитирования для журнала **Почвоведение (Eurasian Soil Science)** <br>
+http://eurasian-soil-science.info/index.php/ru/ <br>
+```
+https://raw.githubusercontent.com/atsyplenkov/mendeley-citing-styles/main/Eurasian%20Soil%20Science/eurasian-soil-science-1.csl
+```
