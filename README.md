@@ -60,3 +60,14 @@ http://eurasian-soil-science.info/index.php/ru/ <br>
 ```
 https://raw.githubusercontent.com/atsyplenkov/mendeley-citing-styles/main/Eurasian%20Soil%20Science/eurasian-soil-science-1.csl
 ```
+
+
+<img align="right" height="100" src="https://izv.rgo.ru/public/journals/1/homeHeaderTitleImage_ru_RU.png">
+
+### [Известия РГО](https://github.com/atsyplenkov/mendeley-citing-styles/blob/main/Proceedings%20RGS/README.md)
+
+Стиль цитирования для журнала **Известия Русского Географического Общества (Proceedings of the Russian Geographical Society)** <br>
+https://izv.rgo.ru/jour <br>
+```
+https://raw.githubusercontent.com/atsyplenkov/mendeley-citing-styles/main/Proceedings%20RGS/irgo-1.csl
+```
