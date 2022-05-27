@@ -36,7 +36,7 @@
       <term name="number-of-pages" form="short">p.</term>
       <term name="number-of-volumes" form="short">vol.</term>
       <term name="volume" form="short">vol.</term>
-      <term name="issue" form="short">N&#160;</term>
+      <term name="issue" form="short">N</term>
       <term name="note" form="long"></term>
       <term name="note" form="short"></term>
       <term name="collection-editor" form="short">coll.</term>
@@ -54,7 +54,7 @@
       <term name="page" form="short">с.</term>
       <term name="number-of-pages" form="short">с.</term>
       <term name="number-of-volumes" form="short">т.</term>
-      <term name="issue" form="short">вып.&#160;</term>
+      <term name="issue" form="short">вып.</term>
       <term name="note" form="long"></term>
       <term name="note" form="short"></term>
       <term name="collection-editor" form="short">сост.</term>
@@ -221,6 +221,11 @@
     <label variable="page" form="short" prefix="" suffix="&#160;" text-case="capitalize-first"/>
     <text variable="page"/>    
   </macro>
+  
+ <macro name="issue">
+    <label variable="issue" form="short" prefix="" suffix="&#160;"/>
+    <text variable="issue"/>    
+ </macro>
 
   <macro name="number-of-pages">    
     <text variable="number-of-pages"/>
@@ -454,7 +459,7 @@
           <text macro="year-date"/>          
           <text macro="volume"/>          
           <text variable="title-short"/>
-		  <text variable="issue"/> 
+		  <text macro="issue"/> 
           <!--<text variable="issue" prefix="N&#160;"/>-->
           <text macro="page"/>		 
         </group>
