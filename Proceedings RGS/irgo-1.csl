@@ -267,7 +267,7 @@
   <macro name="doi">
     <choose>
       <if variable="DOI">
-        <text variable="DOI" prefix="DOI:&#160"/>
+        <text variable="DOI" prefix="DOI: "/>
       </if>
 	</choose>
   </macro>
@@ -454,7 +454,7 @@
           <text macro="year-date"/>          
           <text macro="volume"/>          
           <text variable="title-short"/>
-		  <text macro="issue"/> 
+		  <text variable="issue"/> 
           <!--<text variable="issue" prefix="N&#160;"/>-->
           <text macro="page"/>		 
         </group>
