@@ -222,11 +222,6 @@
     <text variable="page"/>    
   </macro>
   
- <macro name="issue">
-    <label variable="issue" form="short" prefix="" suffix="&#160;"/>
-    <text variable="issue"/>    
- </macro>
-
   <macro name="number-of-pages">    
     <text variable="number-of-pages"/>
     <label variable="number-of-pages" form="short" prefix="&#160;" suffix=""/>
@@ -251,6 +246,15 @@
       <if variable="volume">
         <label variable="volume" form="short" prefix="" suffix="&#160;" text-case="capitalize-first"/>
         <text variable="volume"/>
+      </if>      
+    </choose>
+  </macro> 
+  
+  <macro name="issue">
+    <choose>
+      <if variable="issue">
+        <label variable="issue" form="short" prefix="" suffix="&#160;"/>
+        <text variable="issue"/>
       </if>      
     </choose>
   </macro>
