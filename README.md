@@ -1,8 +1,11 @@
-# Стили цитирования для Mendeley
+# Стили цитирования для Mendeley Desktop
 
-В данном репозитории собраны стили цитирования для программы [Mendeley Desktop](https://www.mendeley.com/reference-management/mendeley-desktop). Использование данных стилей не гарантирует, что журнал или диссертационный совет примет работу без дополнительныъ правок. Скорее всего незначительная доработка потребуется. Если вы нашли какую то ошибку в стиле, напишите мне, а лучше задайте вопрос (rise an issue) в этом репозитории.
+> [!warning]
+> Данный репозиторий больше не поддерживается. Обновленные стили цитирования по схеме CSL 1.0.2 для Zotero 7+ и других программ ищите в [atsyplenkov/atsyplenkov/GOST-CSL-styles](https://github.com/atsyplenkov/GOST-CSL-styles)
 
-❗ Представленные здесь стили пока (сентябрь 2021 г.) не работают с новой версией Mendeley, т.н. [Mendeley Reference Manager](https://www.mendeley.com/reference-management/reference-manager). Поэтому, если вы только начинаете работать с этой программой и хотите использовать сторонние стили, то убедитесь, что вы скачиваете именно **Mendeley Desktop**:
+В данном репозитории собраны стили цитирования для программы [Mendeley Desktop](https://www.mendeley.com/reference-management/mendeley-desktop). Использование данных стилей не гарантирует, что журнал или диссертационный совет примет работу без дополнительныъ правок. Скорее всего незначительная доработка потребуется. Если вы нашли какую то ошибку в стиле, напишите мне, а лучше задайте вопрос (issue) в этом репозитории.
+
+❗ Представленные здесь стили не работают с новой версией Mendeley, т.н. [Mendeley Reference Manager](https://www.mendeley.com/reference-management/reference-manager) и не будут работать в Zotero 6+. Поэтому, если вы только начинаете работать с менеджером ссылок и хотите использовать сторонние стили, то убедитесь, что вы скачиваете именно **Mendeley Desktop**:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/34775595/134459686-c463a031-facf-4dcf-95fc-47278a71d776.png" alt="How to download Mendeley Desktop" width="40%" height="40%">
@@ -71,3 +74,5 @@ https://izv.rgo.ru/jour <br>
 ```
 https://raw.githubusercontent.com/atsyplenkov/mendeley-citing-styles/main/Proceedings%20RGS/irgo-1.csl
 ```
+# Лицензия
+Стили представленные в данном репозитории являются адаптированной версией стилей Романа Распопова ([@romanraspopov](https://github.com/romanraspopov)) и распространяются под наследуемой [лицензией CC-BY-4.0](https://github.com/atsyplenkov/mendeley-citing-styles/LICENCE)
